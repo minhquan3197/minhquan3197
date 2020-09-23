@@ -1,7 +1,7 @@
 ### 👋 Hey I'm Quân Nguyễn (Nickname: k0r1)
 I’m currently learning and working about back-end developer 
 
-<img align='right' src='https://github.com/minhquan3197.png' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/30438379/93967587-ac3d3880-fd91-11ea-95ca-dc6fad5d231a.png' width='200"'>
 
 ### 👨‍💻 My Stack
 
