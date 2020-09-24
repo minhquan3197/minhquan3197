@@ -10,7 +10,7 @@ I’m currently learning and working about back-end developer
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/minhquan3197) 
 [![BashScript](https://img.shields.io/badge/-BashScript-black?style=flat&logo=linux)](https://github.com/minhquan3197) 
 
-### Technology & Framework
+### Framework & Library
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)](https://github.com/minhquan3197) 
 [![React.js](https://img.shields.io/badge/-React.js-black?style=flat&logo=React)](https://github.com/minhquan3197) 
 [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=React)](https://github.com/minhquan3197) 
