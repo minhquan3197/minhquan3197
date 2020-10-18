@@ -35,3 +35,4 @@ I’m currently learning and working about back-end developer
 
 ### ☕ Get In Touch
 - [Personal Site](http://minhquan3197.github.io/)
+- [My Book](https://github.com/minhquan3197/kori-book)
