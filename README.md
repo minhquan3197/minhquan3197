@@ -1,5 +1,5 @@
 ### 👋 Hey I'm Quân Nguyễn (Nickname: k0r1)
-I’m currently learning and working about back-end developer 
+I’m currently learning and working about back-end developer and smart contract developer
 
 <img align='right' src='https://user-images.githubusercontent.com/30438379/93967587-ac3d3880-fd91-11ea-95ca-dc6fad5d231a.png' width='200"'>
 
@@ -9,6 +9,7 @@ I’m currently learning and working about back-end developer
 [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=Go)](https://github.com/minhquan3197) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/minhquan3197) 
 [![BashScript](https://img.shields.io/badge/-BashScript-black?style=flat&logo=linux)](https://github.com/minhquan3197) 
+[![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)](https://github.com/minhquan3197) 
 
 ### Framework & Library
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)](https://github.com/minhquan3197) 
